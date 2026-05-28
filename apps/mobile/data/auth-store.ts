@@ -18,6 +18,9 @@ import { useWorkspaceStore } from "./workspace-store";
 interface AuthState {
   user: User | null;
   isLoading: boolean;
+  /** Google OAuth client ID fetched from /api/config. Empty string means
+   *  Google login is not configured on this server instance. */
+  googleClientId: string;
   initialize: () => Promise<void>;
   sendCode: (email: string) => Promise<void>;
   verifyCode: (email: string, code: string) => Promise<User>;
@@ -30,12 +33,20 @@ interface AuthState {
 export const useAuthStore = create<AuthState>((set) => ({
   user: null,
   isLoading: true,
+  googleClientId: "",
 
   initialize: async () => {
     // Restore the persisted workspace slug alongside the auth token so the
     // entry redirect (app/index.tsx) can route directly to the last-used
     // workspace without flashing /select-workspace.
     await useWorkspaceStore.getState().restoreSlug();
+
+    // Fetch server config (Google client ID) in parallel with token check.
+    // Non-blocking — if it fails, Google login button is simply hidden.
+    api
+      .getConfig()
+      .then((cfg) => set({ googleClientId: cfg.google_client_id ?? "" }))
+      .catch(() => {});
 
     const token = await getToken();
     if (!token) {

@@ -376,6 +376,10 @@ class ApiClient {
     });
   }
 
+  async getConfig(): Promise<{ google_client_id: string }> {
+    return this.fetch<{ google_client_id: string }>("/api/config");
+  }
+
   async getMe(opts?: { signal?: AbortSignal }): Promise<User> {
     return this.fetchValidated(
       "/api/me",
