@@ -12,12 +12,12 @@
  */
 import { useCallback, useEffect } from "react";
 import {
-  ActionSheetIOS,
   ActivityIndicator,
   Alert,
   Linking,
   View,
 } from "react-native";
+import { showActionSheet } from "@/lib/show-action-sheet";
 import { Stack, router, useLocalSearchParams } from "expo-router";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import * as Clipboard from "expo-clipboard";
@@ -123,7 +123,7 @@ export default function IssueDetail() {
     if (issueLink) options.push("Open on web");
     options.push("Delete issue");
     const destructiveIndex = options.length - 1;
-    ActionSheetIOS.showActionSheetWithOptions(
+    showActionSheet(
       {
         options,
         cancelButtonIndex: 0,
