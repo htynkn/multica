@@ -15,7 +15,6 @@
  */
 import { useCallback } from "react";
 import {
-  ActionSheetIOS,
   ActivityIndicator,
   Alert,
   Linking,
@@ -23,6 +22,7 @@ import {
   ScrollView,
   View,
 } from "react-native";
+import { showActionSheet } from "@/lib/show-action-sheet";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Stack, router, useLocalSearchParams } from "expo-router";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
@@ -95,7 +95,7 @@ export default function ProjectDetail() {
       "Delete",
     ];
     const destructiveIndex = options.length - 1;
-    ActionSheetIOS.showActionSheetWithOptions(
+    showActionSheet(
       {
         options,
         cancelButtonIndex: 0,

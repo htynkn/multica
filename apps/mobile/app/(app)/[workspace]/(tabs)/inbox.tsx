@@ -1,10 +1,10 @@
 import { useMemo } from "react";
 import {
-  ActionSheetIOS,
   Alert,
   FlatList,
   View,
 } from "react-native";
+import { showActionSheet } from "@/lib/show-action-sheet";
 import { useQuery } from "@tanstack/react-query";
 import { router } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
@@ -83,7 +83,7 @@ export default function Inbox() {
       "Archive completed",
       "Archive all",
     ];
-    ActionSheetIOS.showActionSheetWithOptions(
+    showActionSheet(
       {
         options,
         cancelButtonIndex: 0,
