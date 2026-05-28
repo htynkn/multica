@@ -12,13 +12,13 @@
  */
 import { useEffect, useState } from "react";
 import {
-  ActionSheetIOS,
   Alert,
   ActivityIndicator,
   Pressable,
   ScrollView,
   View,
 } from "react-native";
+import { showActionSheet } from "@/lib/show-action-sheet";
 import * as ImagePicker from "expo-image-picker";
 import { Text } from "@/components/ui/text";
 import { Button } from "@/components/ui/button";
@@ -64,7 +64,7 @@ export default function ProfileSettingsScreen() {
     const cancelIndex = user?.avatar_url ? 3 : 2;
     const visibleOptions = user?.avatar_url ? options : options.filter((_, i) => i !== 2);
 
-    ActionSheetIOS.showActionSheetWithOptions(
+    showActionSheet(
       {
         options: visibleOptions,
         cancelButtonIndex: cancelIndex,

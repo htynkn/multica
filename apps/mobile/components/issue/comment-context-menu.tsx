@@ -18,7 +18,8 @@
  * first is still dismissing — the callback runs after dismissal completes.
  */
 import { useCallback, useState } from "react";
-import { ActionSheetIOS, Alert } from "react-native";
+import { Alert } from "react-native";
+import { showActionSheet } from "@/lib/show-action-sheet";
 import { router } from "expo-router";
 import * as Clipboard from "expo-clipboard";
 import * as Haptics from "expo-haptics";
@@ -99,7 +100,7 @@ export function useCommentLongPress(
       ? actions.findIndex((a) => a.kind === "delete")
       : undefined;
 
-    ActionSheetIOS.showActionSheetWithOptions(
+    showActionSheet(
       {
         options,
         cancelButtonIndex,
@@ -216,7 +217,7 @@ function presentReactSheet(args: {
   const options = [...emojis, "More reactions…", "Cancel"];
   const cancelButtonIndex = options.length - 1;
 
-  ActionSheetIOS.showActionSheetWithOptions(
+  showActionSheet(
     { options, cancelButtonIndex },
     (i) => {
       if (i === cancelButtonIndex) return;
