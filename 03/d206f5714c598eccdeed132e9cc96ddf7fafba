@@ -1,0 +1,26 @@
+packages/core/issues/stores/view-store.ts
+  s_3800b3bee5e089::t_edf13ec67e706f 15,19
+  s_3800b3bee5e089::t_5e7cf003ce755e 161-162
+  s_3800b3bee5e089::t_4b9be2ad98ac35 223-238
+  s_3800b3bee5e089::t_a57d140323e271 110-113
+  s_3800b3bee5e089::t_e0436e9e5cb637 267-270
+  s_3800b3bee5e089::t_d7e9c24b713da2 73-76
+  s_3800b3bee5e089::t_f2547ef6121833 324-327
+  s_3800b3bee5e089::t_237732ea598b9f 140-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "03d206f5714c598eccdeed132e9cc96ddf7fafba",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
