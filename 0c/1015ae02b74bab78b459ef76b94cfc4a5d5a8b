@@ -1,0 +1,21 @@
+server/migrations/119_epics_and_sprints.down.sql
+  s_3800b3bee5e089::t_e8e13e43d1584c 1-6
+server/migrations/119_epics_and_sprints.up.sql
+  s_3800b3bee5e089::t_5a0ea471c0bcc9 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0c1015ae02b74bab78b459ef76b94cfc4a5d5a8b",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
