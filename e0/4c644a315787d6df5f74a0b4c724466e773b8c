@@ -1,0 +1,36 @@
+server/internal/service/issue.go
+  s_3800b3bee5e089::t_357c19a0d90a14 64-65
+  s_3800b3bee5e089::t_58054509563353 262-263
+server/cmd/server/router.go
+  s_3800b3bee5e089::t_4f9ca8873f047b 763-784
+server/internal/handler/issue.go
+  s_3800b3bee5e089::t_d9f7f8efd2cebb 920-925
+  s_3800b3bee5e089::t_838986655486b0 1986-1987
+  s_3800b3bee5e089::t_c1c46e00e50838 2249-2250
+  s_3800b3bee5e089::t_e4539b9ec1916b 112-113
+  s_3800b3bee5e089::t_13264723cb8165 1023-1024
+  s_3800b3bee5e089::t_3a6b9eb07ed6da 759-774
+  s_3800b3bee5e089::t_bedcc62ea93c00 83-84
+  s_3800b3bee5e089::t_7524de492f0f63 985-986
+  s_3800b3bee5e089::t_91f75bdabd9285 2186-2187
+  s_3800b3bee5e089::t_32c6a161b1c42b 171-172
+  s_3800b3bee5e089::t_c810e24626cde4 2073-2088
+  s_3800b3bee5e089::t_b76fe5b57b8ffa 2404-2425
+  s_3800b3bee5e089::t_09a0dd38a090c3 44-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e04c644a315787d6df5f74a0b4c724466e773b8c",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
