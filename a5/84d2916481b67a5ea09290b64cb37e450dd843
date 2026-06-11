@@ -1,0 +1,21 @@
+server/pkg/db/queries/sprint.sql
+  s_3800b3bee5e089::t_1d5df06bae370f 1-42
+server/pkg/db/generated/sprint.sql.go
+  s_3800b3bee5e089::t_2078db0cd15170 1-238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a584d2916481b67a5ea09290b64cb37e450dd843",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
