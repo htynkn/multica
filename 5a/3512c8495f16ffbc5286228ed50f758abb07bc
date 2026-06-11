@@ -1,0 +1,19 @@
+docs/superpowers/specs/2026-06-11-epics-and-sprints-design.md
+  s_c0ab300675f0de::t_5065b4831e8422 1-339
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5a3512c8495f16ffbc5286228ed50f758abb07bc",
+  "prompts": {},
+  "sessions": {
+    "s_c0ab300675f0de": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019eb414-7530-7309-9516-f69bac68c591",
+        "model": "glm-5.1"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
