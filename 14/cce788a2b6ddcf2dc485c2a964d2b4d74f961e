@@ -1,0 +1,22 @@
+packages/views/issues/components/issues-page.tsx
+  s_3800b3bee5e089::t_31a7eb74b4d519 133-134,140-141,152-155,165-168
+  s_3800b3bee5e089::t_d693993c15b461 45-48
+packages/views/issues/components/swimlane-view.test.tsx
+  s_3800b3bee5e089::t_abcc22faa21d9b 274-275,298-299,322-323
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "14cce788a2b6ddcf2dc485c2a964d2b4d74f961e",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
