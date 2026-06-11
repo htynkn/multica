@@ -1,0 +1,21 @@
+packages/core/api/client.ts
+  s_3800b3bee5e089::t_a1cbf095980c7c 1811-1868
+  s_3800b3bee5e089::t_9013e8bb2fe5f5 120-121
+  s_3800b3bee5e089::t_6286b3c60e2803 483-484
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "19e9fccbdac90dce7b11d5b40b902cbf411dc26b",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
