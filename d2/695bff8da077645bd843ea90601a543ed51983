@@ -1,0 +1,23 @@
+packages/views/issues/components/sidebar-section.tsx
+  s_3800b3bee5e089::t_9f524bd968b0c7 1-18
+packages/views/issues/components/epic-picker.tsx
+  s_3800b3bee5e089::t_700e6dae4add02 1-72
+packages/views/issues/components/sprint-picker.tsx
+  s_3800b3bee5e089::t_ab6eca98582958 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d2695bff8da077645bd843ea90601a543ed51983",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
