@@ -1,0 +1,20 @@
+server/internal/handler/epic.go
+  s_3800b3bee5e089::t_3cf1d682cdd1df 1-3,5-286
+  s_3800b3bee5e089::t_1938d2aa01ea70 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b88898a4a25fddf0599286daf014e5cc0aa681ef",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
