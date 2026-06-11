@@ -1,0 +1,23 @@
+packages/views/projects/components/project-detail.tsx
+  s_3800b3bee5e089::t_dd24f727afab1a 146-149
+packages/views/my-issues/components/my-issues-page.tsx
+  s_3800b3bee5e089::t_654066a96e5e97 145-148,152,167-170,174
+  s_3800b3bee5e089::t_cbc8cbc729010b 185-188,190
+  s_3800b3bee5e089::t_c3013b553e2e86 41-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c6abe7c769711c36b782d0336a7b3923574f3a98",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
