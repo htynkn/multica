@@ -1,0 +1,25 @@
+server/pkg/db/generated/issue.sql.go
+  s_3800b3bee5e089::t_c6cfe9a2712094 180,245-246,260,329-330,359,398-399,405,455-456,462,494-495,501,538-539,545,591-592,598,635-636,642,681-682,695,745-746,1091,1138-1139,1159,1218-1219,1229,1267-1268
+server/pkg/db/queries/epic.sql
+  s_3800b3bee5e089::t_79853c4d4841b1 1-41
+server/pkg/db/generated/models.go
+  s_3800b3bee5e089::t_c6cfe9a2712094 261-271,372-373,587-596
+server/pkg/db/generated/epic.sql.go
+  s_3800b3bee5e089::t_c6cfe9a2712094 1-228
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "8cc0d4df7f70d76d77227d4054549d0478e6e380",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
