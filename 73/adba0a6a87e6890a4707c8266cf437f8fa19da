@@ -1,0 +1,25 @@
+server/pkg/db/queries/issue.sql
+  s_3800b3bee5e089::t_edfa1bd164c4e3 122,125-126
+  s_3800b3bee5e089::t_83546311eba0d1 79-80,82-83
+  s_3800b3bee5e089::t_1197e80cca0737 10-11,20-21
+  s_3800b3bee5e089::t_199455ac8d713f 155-156
+  s_3800b3bee5e089::t_33310863592fb2 103-104
+server/pkg/db/generated/issue.sql.go
+  s_3800b3bee5e089::t_8e43750559759c 177-178,180-181,201-202,222-223,262,265-266,288-289,311-312,772-773,782-785,787,792,802,813,823,840-841,867-868,888-889,921-922,937-938,1014-1015,1058-1059,1184-1185,1204-1205,1222-1223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "73adba0a6a87e6890a4707c8266cf437f8fa19da",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
