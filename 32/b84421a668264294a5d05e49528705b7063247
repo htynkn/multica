@@ -1,0 +1,23 @@
+packages/views/issues/utils/filter.test.ts
+  s_3800b3bee5e089::t_9482ae077a2048 14-17,36-37
+packages/views/projects/components/project-detail.tsx
+  s_3800b3bee5e089::t_5c9cec05a62f2b 158-159,164-165,176-179,187-190,198-199
+packages/views/issues/hooks/issue-delete-mutations.test.tsx
+  s_3800b3bee5e089::t_5e3860239ca308 63-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "32b84421a668264294a5d05e49528705b7063247",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
