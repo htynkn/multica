@@ -1,0 +1,27 @@
+packages/core/types/epic.ts
+  s_3800b3bee5e089::t_6e029260ddbcb0 1-14
+packages/core/types/sprint.ts
+  s_3800b3bee5e089::t_a05141e8344b37 1-15
+packages/core/types/index.ts
+  s_3800b3bee5e089::t_79768c1762339d 2-3
+packages/core/types/api.ts
+  s_3800b3bee5e089::t_f277179df6c108 15-16,34-35,52-53
+packages/core/types/issue.ts
+  s_3800b3bee5e089::t_17c718ed79a222 50-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0badecfb81b3f891f8a74b04e527f8819955f217",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
