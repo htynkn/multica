@@ -1,0 +1,25 @@
+packages/core/sprints/queries.ts
+  s_3800b3bee5e089::t_7fbb5305dc409b 1-24
+packages/core/sprints/mutations.ts
+  s_3800b3bee5e089::t_a6a8aa03554db7 1-76
+packages/core/sprints/index.ts
+  s_3800b3bee5e089::t_bd74475ea1a640 1-2
+packages/core/sprints/config.ts
+  s_3800b3bee5e089::t_820b679709b66c 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7ac2c3308aa9e6a6614e457f62a8d352633391ff",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
