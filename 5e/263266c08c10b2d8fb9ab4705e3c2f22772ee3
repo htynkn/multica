@@ -1,0 +1,26 @@
+packages/views/locales/en/issues.json
+  s_3800b3bee5e089::t_b79d1a8644e2cb 66
+packages/views/issues/components/swimlane-view.tsx
+  s_3800b3bee5e089::t_8a1bf450330f52 509-512
+packages/views/issues/components/swimlane-view.test.tsx
+  s_3800b3bee5e089::t_fce3288246aba3 1487-1490
+  s_3800b3bee5e089::t_7b5cb0cbca3bb6 464-465
+  s_3800b3bee5e089::t_33243c299bc597 1588-1591
+  s_3800b3bee5e089::t_85f59fbcec26bf 738-739,762-763,786-787,810-811,1118-1119,1131-1132,1144-1145,1270-1271,1345-1346,1427-1428,1526-1527
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5e263266c08c10b2d8fb9ab4705e3c2f22772ee3",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
