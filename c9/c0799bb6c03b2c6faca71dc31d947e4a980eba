@@ -1,0 +1,23 @@
+packages/core/epics/config.ts
+  s_3800b3bee5e089::t_130fe3df760cf2 1-14
+packages/core/epics/index.ts
+  s_3800b3bee5e089::t_8ac0404af1191e 1-2
+packages/core/epics/queries.ts
+  s_3800b3bee5e089::t_8b7c37e5960b94 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c9c0799bb6c03b2c6faca71dc31d947e4a980eba",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
