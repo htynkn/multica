@@ -1,0 +1,43 @@
+packages/views/common/actor-issues-panel.tsx
+  s_3800b3bee5e089::t_f4c2d6cc715ff1 108-111
+packages/views/issues/components/issues-header.tsx
+  s_3800b3bee5e089::t_e3c6d1f68db8f1 665,667
+packages/core/issues/queries.test.ts
+  s_3800b3bee5e089::t_ea68ad6b4e3079 35-36
+packages/core/issues/mutations.test.tsx
+  s_3800b3bee5e089::t_f4b7f8ddea06c3 48-49
+.gitignore
+  s_c0ab300675f0de::t_6ce6cb89285cb7 71
+packages/core/issues/ws-updaters.test.ts
+  s_3800b3bee5e089::t_f153e3a9132de9 74-75
+packages/core/package.json
+  s_3800b3bee5e089::t_b48cff8e87638a 70-77
+packages/views/issues/components/issue-detail.test.tsx
+  s_3800b3bee5e089::t_0710ffb6ba92f4 404-405
+packages/views/issues/components/issues-page.test.tsx
+  s_3800b3bee5e089::t_0fb892d55a6874 340-341
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1651e19eea62b0952f7ef6e046d719ac16ddc1b4",
+  "prompts": {},
+  "sessions": {
+    "s_3800b3bee5e089": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14a2cd795ffeuiSPHT8ZpzRiHK",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_c0ab300675f0de": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019eb414-7530-7309-9516-f69bac68c591",
+        "model": "glm-5.1"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
