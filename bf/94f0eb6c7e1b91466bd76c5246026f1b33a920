@@ -1,0 +1,20 @@
+server/internal/daemon/repocache/cache.go
+  s_bbf031118ee363::t_5a316e740d4b75 502-513,521
+  s_bbf031118ee363::t_bacd292754f530 549-560,568
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "bf94f0eb6c7e1b91466bd76c5246026f1b33a920",
+  "prompts": {},
+  "sessions": {
+    "s_bbf031118ee363": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143b836cdffeI5o6mgJ6oE08CE",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
