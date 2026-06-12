@@ -1,0 +1,273 @@
+server/cmd/server/router.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 763-784
+packages/views/locales/ko/epics.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-13,21-40,42,44-49
+  s_64b262442c26d1::t_fae504c6f229fb 14-20
+  s_64b262442c26d1::t_4c664e64973f7d 41,43
+apps/web/app/[workspaceSlug]/(dashboard)/epics/[id]/page.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-13
+packages/core/epics/queries.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-24
+packages/core/paths/paths.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 26-29
+packages/views/issues/utils/filter.test.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 14-17,36-37
+packages/core/types/sprint.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-15
+packages/views/sprints/components/sprints-page.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-201
+packages/views/locales/zh-Hans/sprints.json
+  s_64b262442c26d1::t_f6bdda19f126d0 45,47
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14,17-37,43-44,46,48-54
+  s_64b262442c26d1::t_18f47f3ee4f34f 15-16
+  s_64b262442c26d1::t_89264026a677da 38-42
+packages/views/locales/index.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 27-28,54-55,81-82,108-109,141-142,170-171,199-200,228-229
+packages/core/paths/consistency.test.ts
+  s_1f9c7ad47adc71::t_4bc0f1b3b65980 23-24
+  s_1f9c7ad47adc71::t_063f28fe43fecd 45-46
+packages/views/epics/components/epic-detail.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-148,150-189,191-192,194-220
+  s_64b262442c26d1::t_b0a1daadfc91b5 149
+  s_64b262442c26d1::t_d46137a3ecabd7 190,193
+server/internal/service/issue.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 64-65,262-263
+packages/views/layout/app-sidebar.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 37-38,114-115,130-131,148-149
+packages/views/epics/components/index.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-2
+server/pkg/db/generated/epic.sql.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-228
+packages/views/issues/components/issue-detail.test.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 404-405
+server/internal/handler/epic_test.go
+  s_64b262442c26d1::t_3bd6186e597ee1 1-347
+packages/core/types/epic.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14
+packages/core/epics/mutations.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-76
+packages/views/package.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 22-23
+packages/core/issues/ws-updaters.test.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 74-75
+packages/views/my-issues/components/my-issues-page.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 41-44,145-148,152,167-170,174,185-188,190
+packages/views/locales/en/issues.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 46-51,72,491-505
+packages/views/locales/ja/epics.json
+  s_64b262442c26d1::t_1cea56f9c7fad1 41,43
+  s_64b262442c26d1::t_d8e2bfb916dc1d 14-20
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-13,21-40,42,44-49
+packages/views/sprints/components/index.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-2
+packages/views/i18n/resources-types.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 30-31,73-74
+packages/views/projects/components/project-detail.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 146-149,162-163,168-169,180-183,191-194,202-203
+packages/views/issues/hooks/issue-delete-mutations.test.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 63-64
+server/pkg/db/queries/issue.sql
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 10-11,20-21,79-80,82-83,103-104,122,125-126,155-156
+packages/core/issues/mutations.test.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 48-49
+packages/views/locales/en/sprints.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14,17-37,43-44,46,48-54
+  s_64b262442c26d1::t_107ffbfbcc67ec 38-42
+  s_64b262442c26d1::t_0d683e6a1a9297 15-16
+  s_64b262442c26d1::t_0b8e3f966b5d3c 45,47
+packages/views/sprints/components/sprint-detail.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-122,124-155,157-187,189-190,192-218
+  s_64b262442c26d1::t_586acb6a59b83d 123
+  s_64b262442c26d1::t_4a5af3857a7f05 156
+  s_64b262442c26d1::t_2f2e30053c23c2 188
+  s_64b262442c26d1::t_69f21df0b23dcb 191
+server/internal/handler/issue.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 44-45,83-84,112-113,171-172,759-774,920-925,985-986,1023-1024,1986-1987,2073-2088,2186-2187,2249-2250,2293-2294,2406-2425
+packages/core/sprints/index.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-2
+server/internal/handler/epic.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-286
+apps/web/app/[workspaceSlug]/(dashboard)/sprints/[id]/page.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-13
+packages/views/locales/ko/issues.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 46-51,72,490-504
+packages/core/sprints/queries.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-24
+packages/core/epics/index.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-2
+packages/views/modals/create-sprint.tsx
+  s_64b262442c26d1::t_9c4e383a3ec48e 85
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-69,71-84,86-132
+  s_64b262442c26d1::t_35ec712c1488de 70
+apps/mobile/data/schemas.ts
+  s_197caa7b679063::t_496856d1431bdb 665-666
+packages/core/api/client.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 120-121,483-484,1811-1866
+packages/core/sprints/mutations.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-76
+packages/views/common/actor-issues-panel.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 108-111
+server/pkg/db/generated/models.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 261-271,372-373,587-596
+packages/views/issues/components/issues-header.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 12,20-21,58-59,114-117,126-127,139-140,143-144,171-182,185,523-707,843-846,865-868,884,886,1111-1152
+packages/views/issues/components/issue-detail.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 55-59,675-676,1407,1455-1500
+packages/core/sprints/config.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-13
+packages/views/locales/en/epics.json
+  s_64b262442c26d1::t_72b335a6536e56 41,43
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-40,42,44-49
+packages/core/package.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 70-77
+packages/views/locales/ko/sprints.json
+  s_64b262442c26d1::t_570f535137dc3c 15-16
+  s_64b262442c26d1::t_d7171f4c9dc4ba 45,47
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14,17-37,43-44,46,48-54
+  s_64b262442c26d1::t_c9984d5b02913e 38-42
+server/pkg/db/queries/sprint.sql
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-42
+packages/views/locales/zh-Hans/layout.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 7-8
+server/pkg/db/generated/issue.sql.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 177-178,180-182,201-202,222-223,251-252,262,265-267,288-289,311-312,340-341,370,409-410,416,466-467,473,505-506,512,549-550,556,602-603,609,646-647,653,692-693,706,756-757,772-773,782-785,787,792,802,813,823,840-841,867-868,888-889,921-922,937-938,1014-1015,1058-1059,1118,1165-1166,1184-1185,1188,1204-1205,1222-1223,1251-1252,1262,1300-1301
+apps/web/next-env.d.ts
+  s_0a2c3236db5dd2::t_52531401076dcc 3
+packages/core/modals/store.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 10-11
+packages/core/types/issue.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 50-51
+apps/web/app/[workspaceSlug]/(dashboard)/sprints/page.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-7
+packages/views/issues/components/sprint-picker.tsx
+  s_64b262442c26d1::t_371d8a3edddc6a 28
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14,16-27,29-39,41-56,58-61,63-68
+  s_64b262442c26d1::t_5d05f4552282a6 15
+  s_64b262442c26d1::t_b33d549d487194 62
+  s_64b262442c26d1::t_f4b1712ab3a9db 57
+  s_64b262442c26d1::t_81c8dbceec7a0c 40
+packages/core/types/api.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 15-16,34-35,52-53
+server/migrations/119_epics_and_sprints.down.sql
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-6
+packages/views/locales/ko/layout.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 7-8
+packages/views/layout/app-sidebar.test.tsx
+  s_0a2c3236db5dd2::t_acb4e48d390ed4 91-92
+packages/views/modals/create-epic.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-64,66-79,81-124
+  s_64b262442c26d1::t_8a8bce44604c5c 65
+  s_64b262442c26d1::t_6b9f73f02a5dd2 80
+packages/core/epics/config.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14
+packages/core/issues/queries.test.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 35-36
+packages/views/issues/components/issues-page.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 45-48,133-134,140-141,152-155,165-168
+packages/views/issues/components/epic-picker.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14,16-27,29-44,46-62,64-67,69-74
+  s_64b262442c26d1::t_440b3505a3f358 15
+  s_64b262442c26d1::t_e951fd9aea2da4 45
+  s_64b262442c26d1::t_9e5800d4aa4326 63
+  s_64b262442c26d1::t_d8a27d93007302 28
+  s_64b262442c26d1::t_47bc6cc8fbcb28 68
+packages/views/locales/ja/issues.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 46-51,70,472-486
+packages/views/issues/components/sidebar-section.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-18
+packages/views/locales/ja/sprints.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-14,17-37,43-44,46,48-54
+  s_64b262442c26d1::t_5c08965a948e51 45,47
+  s_64b262442c26d1::t_941c035e78b51c 15-16
+  s_64b262442c26d1::t_5b59b0699de7e1 38-42
+packages/views/issues/components/issues-page.test.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 173-177,192-196,350-351
+packages/views/issues/utils/filter.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 13-16,35,38-39,90-105
+server/pkg/db/queries/epic.sql
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-41
+server/internal/handler/sprint.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-334
+packages/views/locales/zh-Hans/epics.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-13,21-40,42,44-49
+  s_64b262442c26d1::t_41cbcf664e4890 14-20
+  s_64b262442c26d1::t_2ee30896d56a3f 41,43
+packages/core/issues/stores/view-store.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 15,19,73-76,110-113,140-143,161-162,223-238,267-270,324-327
+packages/views/issues/components/swimlane-view.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 509-512
+apps/web/app/[workspaceSlug]/(dashboard)/epics/page.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-7
+packages/views/locales/zh-Hans/issues.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 46-51,70,477-491
+server/migrations/119_epics_and_sprints.up.sql
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-37
+server/internal/handler/sprint_test.go
+  s_64b262442c26d1::t_4cc3144329fa6f 1-482
+packages/views/issues/components/swimlane-view.test.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 274-275,298-299,322-323,464-465,738-739,762-763,786-787,810-811,1118-1119,1131-1132,1144-1145,1270-1271,1345-1346,1427-1428,1487-1490,1526-1527,1588-1591
+packages/views/search/search-command.tsx
+  s_64b262442c26d1::t_f49c0c1e4da5d4 172-181,189
+packages/views/locales/ja/layout.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 7-8
+packages/views/epics/components/epics-page.tsx
+  s_64b262442c26d1::t_70a40d22e8dc27 90
+  s_64b262442c26d1::t_f51ac2de0aec6c 20
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-19,21-89,91-194
+server/pkg/db/generated/sprint.sql.go
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 1-238
+packages/core/types/index.ts
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 2-3
+packages/views/locales/en/layout.json
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 7-8
+packages/views/modals/registry.tsx
+  s_8759dee0a6a99d::t_f7be0f6ab71d7f 7-8,32-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "acfa1a8c3580b13363400a85ead771a0fb0d1bc4",
+  "prompts": {},
+  "sessions": {
+    "s_0a2c3236db5dd2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_144176442ffehsaA4q6yIHfU61",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_197caa7b679063": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1469b5b37fferXOHp58pyrJ6H6",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_1f9c7ad47adc71": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1469f47bfffeSOPXHMpbXkVgT1",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_64b262442c26d1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_144943404ffeVhdwJo263tB1e2",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_8759dee0a6a99d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_146bd138dffezAn6KWD1hfSM38",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
