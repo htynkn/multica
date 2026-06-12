@@ -1,0 +1,73 @@
+server/internal/daemon/health.go
+  s_4dd7cfa99a64fc::t_8249080c7a499f 190
+  s_4dd7cfa99a64fc::t_cb3bb02486b195 56-62
+server/internal/daemon/repocache/cache_test.go
+  s_9c5e711ffad9cd::t_e8453248d3e0a5 63-68
+  s_9c5e711ffad9cd::t_ecec6f0d67b404 92-93,101-105
+  s_9c5e711ffad9cd::t_b5f71e132cef2b 258-272
+  s_9c5e711ffad9cd::t_de8b9be6d21fa7 1497-1565,1569-1570,1590-1616
+  s_9c5e711ffad9cd::t_f1b860d8d86476 250-257,273-276
+  s_9c5e711ffad9cd::t_9375d95109e746 1566-1568,1571,1573-1574,1584-1588
+  s_9c5e711ffad9cd::t_9a6900952bbe67 1572,1575-1583,1589
+server/cmd/multica/cmd_repo.go
+  s_578baf7dd83a10::t_b01ea73d99589e 29,33
+  s_4dd7cfa99a64fc::t_458bb631e25894 88-90
+  s_4dd7cfa99a64fc::t_6e9b143c0f04ce 98-100
+  s_578baf7dd83a10::t_a204e2326ea5e2 55-62
+server/internal/daemon/repocache/cache.go
+  s_9c5e711ffad9cd::t_7ba68d26810124 48,51-52
+  s_fefb93cbccddc2::t_bf64e966a32663 412-414
+  s_fefb93cbccddc2::t_50c2f4918f5786 6
+  s_bbf031118ee363::t_5a316e740d4b75 504-506,509-513,523
+  s_fefb93cbccddc2::t_e738f42c6586ca 307-326
+  s_bbf031118ee363::t_bacd292754f530 507-508,514-515,551-562,570
+  s_fefb93cbccddc2::t_dc37cee65823ae 407
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d76418dc2dcf35c15684891c1202df39add261f9",
+  "prompts": {},
+  "sessions": {
+    "s_4dd7cfa99a64fc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14390a4b0ffevcF41UkZ13BkUd",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_578baf7dd83a10": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1438ee980ffe30J5PrDE9XDxK9",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_9c5e711ffad9cd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143b1f1e9ffes1CoYkb0XT8Mw2",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_bbf031118ee363": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143b836cdffeI5o6mgJ6oE08CE",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_fefb93cbccddc2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143be8b68fferVWjyyJcBiuI44",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
