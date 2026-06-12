@@ -1,0 +1,21 @@
+packages/views/layout/app-sidebar.test.tsx
+  s_0a2c3236db5dd2::t_acb4e48d390ed4 91-92
+apps/web/next-env.d.ts
+  s_0a2c3236db5dd2::t_52531401076dcc 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e1a9a76fc9b2d3585fa05c1ae1ee958f43d54eed",
+  "prompts": {},
+  "sessions": {
+    "s_0a2c3236db5dd2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_144176442ffehsaA4q6yIHfU61",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
