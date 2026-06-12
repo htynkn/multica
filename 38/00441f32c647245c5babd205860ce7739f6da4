@@ -1,0 +1,64 @@
+packages/views/locales/en/sprints.json
+  s_64b262442c26d1::t_107ffbfbcc67ec 38-42
+  s_64b262442c26d1::t_0b8e3f966b5d3c 45,47
+packages/views/issues/components/sprint-picker.tsx
+  s_64b262442c26d1::t_b33d549d487194 62
+  s_64b262442c26d1::t_f4b1712ab3a9db 57
+  s_64b262442c26d1::t_5d05f4552282a6 15
+  s_64b262442c26d1::t_371d8a3edddc6a 28
+  s_64b262442c26d1::t_81c8dbceec7a0c 40
+packages/views/locales/zh-Hans/epics.json
+  s_64b262442c26d1::t_41cbcf664e4890 14-20
+  s_64b262442c26d1::t_2ee30896d56a3f 41,43
+packages/views/epics/components/epic-detail.tsx
+  s_64b262442c26d1::t_d46137a3ecabd7 190,193
+  s_64b262442c26d1::t_b0a1daadfc91b5 149
+packages/views/locales/ko/sprints.json
+  s_64b262442c26d1::t_c9984d5b02913e 38-42
+  s_64b262442c26d1::t_d7171f4c9dc4ba 45,47
+packages/views/locales/ja/sprints.json
+  s_64b262442c26d1::t_5c08965a948e51 45,47
+  s_64b262442c26d1::t_5b59b0699de7e1 38-42
+packages/views/locales/ja/epics.json
+  s_64b262442c26d1::t_1cea56f9c7fad1 41,43
+  s_64b262442c26d1::t_d8e2bfb916dc1d 14-20
+packages/views/locales/ko/epics.json
+  s_64b262442c26d1::t_fae504c6f229fb 14-20
+  s_64b262442c26d1::t_4c664e64973f7d 41,43
+packages/views/locales/en/epics.json
+  s_64b262442c26d1::t_72b335a6536e56 41,43
+packages/views/issues/components/epic-picker.tsx
+  s_64b262442c26d1::t_47bc6cc8fbcb28 68
+  s_64b262442c26d1::t_d8a27d93007302 28
+  s_64b262442c26d1::t_e951fd9aea2da4 45
+  s_64b262442c26d1::t_9e5800d4aa4326 63
+  s_64b262442c26d1::t_440b3505a3f358 15
+packages/views/modals/create-sprint.tsx
+  s_64b262442c26d1::t_9c4e383a3ec48e 85
+  s_64b262442c26d1::t_35ec712c1488de 70
+packages/views/epics/components/epics-page.tsx
+  s_64b262442c26d1::t_70a40d22e8dc27 90
+  s_64b262442c26d1::t_f51ac2de0aec6c 20
+packages/views/locales/zh-Hans/sprints.json
+  s_64b262442c26d1::t_f6bdda19f126d0 45,47
+  s_64b262442c26d1::t_89264026a677da 38-42
+packages/views/modals/create-epic.tsx
+  s_64b262442c26d1::t_8a8bce44604c5c 65
+  s_64b262442c26d1::t_6b9f73f02a5dd2 80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "3800441f32c647245c5babd205860ce7739f6da4",
+  "prompts": {},
+  "sessions": {
+    "s_64b262442c26d1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_144943404ffeVhdwJo263tB1e2",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
