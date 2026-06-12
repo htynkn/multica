@@ -1,0 +1,113 @@
+packages/views/i18n/resources-types.ts
+  s_23d5273b97a7a5::t_14b1268e9ef0ca 73-74
+  s_23d5273b97a7a5::t_ce9d8a173623ee 30-31
+apps/web/app/[workspaceSlug]/(dashboard)/sprints/[id]/page.tsx
+  s_23d5273b97a7a5::t_f75c5d6009e1f4 1-13
+server/internal/handler/issue.go
+  s_23d5273b97a7a5::t_339b4fe1ae0d94 2293-2294
+packages/views/locales/zh-Hans/sprints.json
+  s_23d5273b97a7a5::t_5b8fd9644a16c6 1-46
+packages/views/locales/en/epics.json
+  s_23d5273b97a7a5::t_597e9a6f064830 1-41
+packages/views/sprints/components/sprints-page.tsx
+  s_23d5273b97a7a5::t_e7346743a79e24 1-201
+packages/views/locales/zh-Hans/layout.json
+  s_23d5273b97a7a5::t_ccfb160f1ac88b 7-8
+packages/views/locales/index.ts
+  s_23d5273b97a7a5::t_14c86a41249008 81-82
+  s_23d5273b97a7a5::t_cd4915ffd71bb9 199-200
+  s_23d5273b97a7a5::t_d254a5e0514866 228-229
+  s_23d5273b97a7a5::t_84d5282a0bb1a4 108-109
+  s_23d5273b97a7a5::t_dbe26a786cafda 141-142
+  s_23d5273b97a7a5::t_e833471a80691f 27-28
+  s_23d5273b97a7a5::t_1c3b763ed72f81 170-171
+  s_23d5273b97a7a5::t_c5ef5b37c7aae9 54-55
+packages/views/locales/ja/epics.json
+  s_23d5273b97a7a5::t_d06034138010a9 1-41
+packages/views/locales/ja/layout.json
+  s_23d5273b97a7a5::t_01d47d1d7af579 7-8
+packages/views/sprints/components/index.ts
+  s_23d5273b97a7a5::t_297f3dd66c9c41 2
+  s_23d5273b97a7a5::t_b5ef5a2c841737 1
+packages/views/sprints/components/sprint-detail.tsx
+  s_23d5273b97a7a5::t_7b0089fb02960b 115
+  s_23d5273b97a7a5::t_29718dc243dde2 203,206,209
+  s_23d5273b97a7a5::t_fa542cb7721f6f 95-97
+  s_23d5273b97a7a5::t_706189318f2027 125-138
+  s_23d5273b97a7a5::t_165772f2006c05 1-94,98-114,116-124,139-202,204-205,207-208,210-218
+packages/views/issues/components/issues-header.tsx
+  s_23d5273b97a7a5::t_d4e0e778ef3b0d 524-707
+  s_23d5273b97a7a5::t_b549a48895eed9 843-846
+  s_23d5273b97a7a5::t_208626fd5c96a8 58-59
+  s_23d5273b97a7a5::t_ccacc70a2ccb3b 139-140,143-144,171-182,185
+  s_23d5273b97a7a5::t_5dd60afb155e15 1111-1156
+  s_23d5273b97a7a5::t_2e36dc656a2d95 865-868
+  s_23d5273b97a7a5::t_319df83b8b6c02 12,20-21
+  s_23d5273b97a7a5::t_4267a80b55f8bd 114-117,126-127
+packages/views/modals/create-epic.tsx
+  s_23d5273b97a7a5::t_8d8556fdcf700a 1-124
+packages/views/modals/registry.tsx
+  s_23d5273b97a7a5::t_93adcd3e42e6f3 32-35
+  s_23d5273b97a7a5::t_c4a08c782d5460 7-8
+packages/views/locales/en/layout.json
+  s_23d5273b97a7a5::t_f8f1d1bb56654d 7-8
+packages/views/locales/ja/sprints.json
+  s_23d5273b97a7a5::t_bfc4eb41403a94 1-46
+packages/views/locales/en/sprints.json
+  s_23d5273b97a7a5::t_cb7a7ec38d669a 1-46
+packages/views/epics/components/index.ts
+  s_23d5273b97a7a5::t_73d0dfba2217da 2
+  s_23d5273b97a7a5::t_1ab0329b319d52 1
+apps/web/app/[workspaceSlug]/(dashboard)/epics/page.tsx
+  s_23d5273b97a7a5::t_00f9abcc97b3d1 1-7
+packages/views/package.json
+  s_23d5273b97a7a5::t_7188209c7b25da 22-23
+packages/views/locales/zh-Hans/epics.json
+  s_23d5273b97a7a5::t_8ece20b649e159 1-41
+packages/core/paths/paths.ts
+  s_23d5273b97a7a5::t_7e419d75dd7093 26-29
+packages/views/layout/app-sidebar.tsx
+  s_23d5273b97a7a5::t_762f0dce8b16ee 37-38
+  s_23d5273b97a7a5::t_8d03b6bdd3e66a 114-115
+  s_23d5273b97a7a5::t_6faea7f8d5335f 130-131
+  s_23d5273b97a7a5::t_67e3ef3ee7eb03 148-149
+packages/views/epics/components/epics-page.tsx
+  s_23d5273b97a7a5::t_c843c16b35aa70 1-193
+packages/views/locales/ko/epics.json
+  s_23d5273b97a7a5::t_f618471e0e35dc 1-41
+packages/views/locales/ko/layout.json
+  s_23d5273b97a7a5::t_8466cc3ac69928 7-8
+packages/views/epics/components/epic-detail.tsx
+  s_23d5273b97a7a5::t_9bccf984e09da8 138
+  s_23d5273b97a7a5::t_a40c7fb106ce4f 151-165
+  s_23d5273b97a7a5::t_5de64d8f8ae283 205,208,211
+  s_23d5273b97a7a5::t_9d71a324a8b127 86-88
+  s_23d5273b97a7a5::t_f39d1094efece3 1-85,89-106,116-137,139-150,166-204,206-207,209-210,212-220
+  s_23d5273b97a7a5::t_c18fca870f36fc 107-115
+packages/views/locales/ko/sprints.json
+  s_23d5273b97a7a5::t_6c63336ae2a818 1-46
+packages/core/modals/store.ts
+  s_23d5273b97a7a5::t_217962011d7109 10-11
+apps/web/app/[workspaceSlug]/(dashboard)/sprints/page.tsx
+  s_23d5273b97a7a5::t_115de5ef021c44 1-7
+apps/web/app/[workspaceSlug]/(dashboard)/epics/[id]/page.tsx
+  s_23d5273b97a7a5::t_8aab9d86d09136 1-13
+packages/views/modals/create-sprint.tsx
+  s_23d5273b97a7a5::t_d531ef1038d377 1-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "821e08ea8223b55b608b8c231f7be3a426a6d686",
+  "prompts": {},
+  "sessions": {
+    "s_23d5273b97a7a5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_148d854d3ffeUJ1pNLEUmoxj2A",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
