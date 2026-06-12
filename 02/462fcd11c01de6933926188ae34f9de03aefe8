@@ -1,0 +1,27 @@
+packages/views/locales/en/sprints.json
+  s_64b262442c26d1::t_0d683e6a1a9297 15-16
+packages/views/locales/zh-Hans/sprints.json
+  s_64b262442c26d1::t_18f47f3ee4f34f 15-16
+packages/views/sprints/components/sprint-detail.tsx
+  s_64b262442c26d1::t_69f21df0b23dcb 191
+packages/views/locales/ja/sprints.json
+  s_64b262442c26d1::t_941c035e78b51c 15-16
+packages/views/locales/ko/sprints.json
+  s_64b262442c26d1::t_570f535137dc3c 15-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "02462fcd11c01de6933926188ae34f9de03aefe8",
+  "prompts": {},
+  "sessions": {
+    "s_64b262442c26d1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_144943404ffeVhdwJo263tB1e2",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
