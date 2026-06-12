@@ -1,0 +1,19 @@
+packages/views/search/search-command.tsx
+  s_64b262442c26d1::t_f49c0c1e4da5d4 172-181,189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e62d62a65d77ac3f082c036e8acc7a47f89b57ec",
+  "prompts": {},
+  "sessions": {
+    "s_64b262442c26d1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_144943404ffeVhdwJo263tB1e2",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
