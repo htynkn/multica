@@ -1,0 +1,19 @@
+docs/superpowers/plans/2026-06-12-recurse-submodules.md
+  s_266725a23ccb48::t_9fb14709242cb5 1-554
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "60715f11405444273c9186250626716548c36a1d",
+  "prompts": {},
+  "sessions": {
+    "s_266725a23ccb48": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143d3126fffeOx7XwCJN0m8H8M",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
