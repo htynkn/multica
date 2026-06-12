@@ -1,0 +1,30 @@
+server/cmd/multica/cmd_repo.go
+  s_4dd7cfa99a64fc::t_458bb631e25894 88-90
+  s_4dd7cfa99a64fc::t_6e9b143c0f04ce 98-100
+  s_578baf7dd83a10::t_b01ea73d99589e 29,33
+  s_578baf7dd83a10::t_a204e2326ea5e2 55-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1d3ef7c65e08aa448c530865a63ee98b2bc35e5f",
+  "prompts": {},
+  "sessions": {
+    "s_4dd7cfa99a64fc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14390a4b0ffevcF41UkZ13BkUd",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_578baf7dd83a10": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1438ee980ffe30J5PrDE9XDxK9",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}

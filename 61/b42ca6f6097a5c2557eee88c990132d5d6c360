@@ -1,0 +1,49 @@
+server/internal/daemon/repocache/cache.go
+  s_fefb93cbccddc2::t_50c2f4918f5786 6
+  s_fefb93cbccddc2::t_e738f42c6586ca 307-326
+  s_fefb93cbccddc2::t_dc37cee65823ae 407
+  s_fefb93cbccddc2::t_bf64e966a32663 412-414
+  s_bbf031118ee363::t_5a316e740d4b75 504-506,509-513,523
+  s_bbf031118ee363::t_bacd292754f530 507-508,514-515,551-562,570
+  s_9c5e711ffad9cd::t_7ba68d26810124 48,51-52
+server/internal/daemon/repocache/cache_test.go
+  s_9c5e711ffad9cd::t_e8453248d3e0a5 63-68
+  s_9c5e711ffad9cd::t_ecec6f0d67b404 92-93,101-105
+  s_9c5e711ffad9cd::t_f1b860d8d86476 250-257,273-276
+  s_9c5e711ffad9cd::t_b5f71e132cef2b 258-272
+  s_9c5e711ffad9cd::t_de8b9be6d21fa7 1497-1565,1569-1570,1590-1616
+  s_9c5e711ffad9cd::t_9375d95109e746 1566-1568,1571,1573-1574,1584-1588
+  s_9c5e711ffad9cd::t_9a6900952bbe67 1572,1575-1583,1589
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "61b42ca6f6097a5c2557eee88c990132d5d6c360",
+  "prompts": {},
+  "sessions": {
+    "s_9c5e711ffad9cd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143b1f1e9ffes1CoYkb0XT8Mw2",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_bbf031118ee363": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143b836cdffeI5o6mgJ6oE08CE",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    },
+    "s_fefb93cbccddc2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_143be8b68fferVWjyyJcBiuI44",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
