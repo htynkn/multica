@@ -1,0 +1,20 @@
+packages/core/paths/consistency.test.ts
+  s_1f9c7ad47adc71::t_063f28fe43fecd 45-46
+  s_1f9c7ad47adc71::t_4bc0f1b3b65980 23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e1ca80013afa5246e48df88ee5f2d86ac44882d6",
+  "prompts": {},
+  "sessions": {
+    "s_1f9c7ad47adc71": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1469f47bfffeSOPXHMpbXkVgT1",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
