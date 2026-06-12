@@ -1,0 +1,21 @@
+server/internal/handler/epic_test.go
+  s_64b262442c26d1::t_3bd6186e597ee1 1-347
+server/internal/handler/sprint_test.go
+  s_64b262442c26d1::t_4cc3144329fa6f 1-482
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "070c5d8b920ad95839c28b28162918e9703f7685",
+  "prompts": {},
+  "sessions": {
+    "s_64b262442c26d1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_144943404ffeVhdwJo263tB1e2",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "htynkn <htynkn@gmail.com>"
+    }
+  }
+}
